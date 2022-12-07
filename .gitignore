@@ -3,7 +3,7 @@
 *.pdf
 *.html
 
-data\
+data/
 
 # History files
 .Rhistory
